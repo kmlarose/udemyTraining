@@ -1,0 +1,2 @@
+# udemyTraining
+learning Go
