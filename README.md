@@ -1,2 +1,1 @@
-# udemyTraining
-learning Go
+Just messin' around and learning Go lang
